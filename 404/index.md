@@ -9,7 +9,7 @@ fancybox: false
 
 ![Reveal 调试界面][revealImage]
 
-[index]:http://hansoncoder.com/
-[archives]:http://hansoncoder.com/archives/
-[about]:http://hansoncoder.com/about/
+[index]:http://hansoncoder.cn/
+[archives]:http://hansoncoder.cn/archives/
+[about]:http://hansoncoder.cn/about/
 [revealImage]:/resources/404-reveal.png
